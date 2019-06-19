@@ -15,7 +15,10 @@ export default class App extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text style={styles.text}>
+                <Text
+                    style={styles.text}
+                    testID="MainText"
+                >
                     {this.state.text}
                 </Text>
 
@@ -24,14 +27,14 @@ export default class App extends React.Component {
                     style={styles.button}
                     testID="FirstButton"
                 >
-                    <Text>First button</Text>
+                    <Text style={styles.buttonText}>First button</Text>
                 </TouchableOpacity>
                 <TouchableOpacity
                     onPress={() => this.changeText("Second button pressed!")}
                     style={styles.button}
                     testID="SecondButton"
                 >
-                    <Text>Second button</Text>
+                    <Text style={styles.buttonText}>Second button</Text>
                 </TouchableOpacity>
             </View>
         );
@@ -45,6 +48,20 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
     },
-    text: {},
-    button: {}
+    text: {
+        margin: 20,
+        fontSize: 30,
+    },
+    button: {
+        justifyContent: "center",
+        backgroundColor: '#f2c113',
+        width: 200,
+        height: 50,
+        borderRadius: 5,
+        margin: 10,
+    },
+    buttonText: {
+        fontSize: 25,
+        textAlign: "center",
+    }
 });
