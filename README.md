@@ -9,7 +9,7 @@ Sample React-Native application with e2e tests using:
 * typescript
 
 ## Demo
-![](https://imgur.com/ewxLpol)
+![](https://raw.githubusercontent.com/yaron1m/with-detox-tests/master/example.gif)
 
 ## Installation instructions
 1. Follow **Step 1** (install dependencies) from detox [Getting Started](https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md#step-1-install-dependencies) guide
