@@ -9,7 +9,7 @@ Sample React-Native application with e2e tests using:
 * typescript
 
 ## Demo
-![](https://raw.githubusercontent.com/yaron1m/with-detox-tests/master/example.gif)
+![](https://raw.githubusercontent.com/yaron1m/expo-detox-typescript-example/master/example.gif)
 
 ## Installation instructions
 1. Follow **Step 1** (install dependencies) from detox [Getting Started](https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md#step-1-install-dependencies) guide
@@ -30,6 +30,3 @@ I have opend an issue to the authors and hopefully this would be fixed soon.
 **How can I help?**
 
 Starring this project would help others find it and set up detox with Expo easier.
-
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/1dFrgVP"><a href="//imgur.com/a/1dFrgVP">expo-detox-typescript-example</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
