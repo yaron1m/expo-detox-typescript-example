@@ -22,6 +22,7 @@
     "@types/react": "^16.8.19",
     "@types/react-native": "^0.57.60",
     "babel-preset-expo": "^5.1.1",
+    "bunyan": "^1.8.12",
     "detox": "12.1.1",
     "detox-expo-helpers": "^0.6.0",
     "expo-detox-hook": "^1.0.10",
