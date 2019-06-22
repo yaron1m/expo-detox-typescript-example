@@ -9,8 +9,6 @@ Sample React-Native application with e2e tests using:
 * typescript
 
 ## Demo
-![](https://raw.githubusercontent.com/yaron1m/expo-detox-typescript-example/master/example.gif)
-
 <img src="https://raw.githubusercontent.com/yaron1m/expo-detox-typescript-example/master/example.gif" width="1000"/>
 
 ## Installation instructions
