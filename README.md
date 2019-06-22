@@ -25,7 +25,8 @@ Sample React-Native application with e2e tests using:
 **Can I use a newer version of detox?**
 
 For some reason, expo and detox are not working well together with detox version newer than 12.3.0.
-I have opend an issue to the authors and hopefully this would be fixed soon.
+
+There is an open issue [here](https://github.com/wix/Detox/issues/1422)
 
 **How can I help?**
 
