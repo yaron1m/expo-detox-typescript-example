@@ -9,7 +9,7 @@ Sample React-Native application with e2e tests using:
 * typescript
 
 ## Demo
-<img src="https://raw.githubusercontent.com/yaron1m/expo-detox-typescript-example/master/example.gif" width="1000"/>
+<img src="https://raw.githubusercontent.com/yaron1m/expo-detox-typescript-example/master/example.gif"/>
 
 ## Installation instructions
 1. Follow **Step 1** (install dependencies) from detox [Getting Started](https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md#step-1-install-dependencies) guide
@@ -21,7 +21,7 @@ Sample React-Native application with e2e tests using:
 4. Start the application by running `npm start`.
 5. In another terminal, run `npm run e2e` to run the tests.
 
-##FAQ
+## FAQ
 **Can I use a newer version of detox?**
 
 For some reason, expo and detox are not working well together with detox version newer than 12.3.0.
