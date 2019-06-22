@@ -11,6 +11,8 @@ Sample React-Native application with e2e tests using:
 ## Demo
 ![](https://raw.githubusercontent.com/yaron1m/expo-detox-typescript-example/master/example.gif)
 
+<img src="https://raw.githubusercontent.com/yaron1m/expo-detox-typescript-example/master/example.gif" width="1000"/>
+
 ## Installation instructions
 1. Follow **Step 1** (install dependencies) from detox [Getting Started](https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md#step-1-install-dependencies) guide
 2. Download Expo iOS client:
