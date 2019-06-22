@@ -12,21 +12,21 @@
     "expo": "^33.0.0",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz"
   },
   "devDependencies": {
-    "@types/detox": "^12.8.1",
+    "@types/detox": "^12.8.2",
     "@types/jasmine": "^3.3.13",
     "@types/jest": "^24.0.15",
-    "@types/react": "^16.8.19",
-    "@types/react-native": "^0.57.60",
-    "babel-preset-expo": "^5.1.1",
-    "detox": "12.1.1",
+    "@types/react": "^16.8.22",
+    "@types/react-native": "^0.57.63",
+    "babel-preset-expo": "^5.2.0",
+    "detox": "~12.3.0",
     "detox-expo-helpers": "^0.6.0",
     "expo-detox-hook": "^1.0.10",
     "jest": "^24.8.0",
     "ts-jest": "^24.0.2",
-    "typescript": "^3.4.5"
+    "typescript": "^3.5.2"
   },
   "detox": {
     "configurations": {
