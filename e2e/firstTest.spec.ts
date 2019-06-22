@@ -6,11 +6,6 @@ describe('Authentication tests', () => {
         await reloadApp();
     });
 
-    it('should show the default text', async () => {
-        await expect(element(by.id("MainText"))).toExist();
-        await expect(element(by.label("Press a button to start"))).toBeVisible();
-    });
-
     it('should change the text when buttons are pressed', async () => {
         await expect(element(by.id("MainText"))).toExist();
         await expect(element(by.label("Press a button to start"))).toBeVisible();
