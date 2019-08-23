@@ -13,10 +13,7 @@ Sample React-Native application with e2e tests using:
 
 ## Installation instructions
 1. Follow **Step 1** (install dependencies) from detox [Getting Started](https://github.com/wix/detox/blob/master/docs/Introduction.GettingStarted.md#step-1-install-dependencies) guide
-2. Download Expo iOS client:
-    - Download the Expo Client iOS App from [Expo.io/tools](https://expo.io/tools#client).
-    - Unzip the iOS IPA and **rename the folder** to `Exponent.app`. It'll have a file icon but will still be a folder.
-    - Create `bin` folder in this project and put `Exponent.app` inside so it matches the binaryPath set above.
+2. Download Expo iOS client by running `npm run dl_expo_bins`
 3. Install the project dependencies by running `npm install`.
 4. Start the application by running `npm start`.
 5. In another terminal, run `npm run e2e` to run the tests.
